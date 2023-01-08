@@ -1,0 +1,14 @@
+.appeals-table {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+
+.appeals-table td, .appeals-table th {
+    padding: 5px;
+}
+
+.appeals-table>tbody>tr:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}

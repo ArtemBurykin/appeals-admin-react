@@ -1,0 +1,49 @@
+.appeal {
+    text-align: left;
+}
+.appeal__add-message-btn {
+    display: block;
+    width: 200px;
+    background: #0d6efd;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    text-align: center;
+    padding: 10px;
+}
+
+.appeal__title {
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+.appeal__messages-title {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.appeal__message {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    padding: 10px;
+    background-color: #dedede;
+    margin-bottom: 10px;
+    max-width: 600px;
+    border-radius: 6px;
+}
+.appeal__message-author {
+    color: #888;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.appeal__add-message-status {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    color: red;
+    margin-top: 10px;
+}
